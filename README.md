@@ -1,0 +1,3 @@
+# nobetci_eczane
+İstanbul ve ilçelerindeki n&amp;#246;bet&amp;#231;i eczanelerin adres telefon ve harita bilgileri
+Sağlığın insan yaşamında çok büyük önemi var. Sağlığın değeri ancak kaybedilince anlaşılır.Sağlığımız kaybedince ilk başvuracağımız kurum hastaneler ve polikliniklerdir. Buralarda hekimlerin tetkik ve tedavilerinden sonra şifa bulmak için hekimin verdiği reçete sonucunda ilaç kullanımına ihtiyacımız vardır. İlaçları gündüz tüm eczaneler açık olduğu için kolayca temin edebiliriz.Yalnız mesai saatleri dışında ise tüm eczaneler kapanır yalnız nöbetçi eczaneler kalır. istanbul’daki nöbetçi eczaneleri de https://www.nobetcieczanebul.com/istanbul-nobetci-eczane web sitemizden öğrenip kolayca ulaşabilirsiniz.
